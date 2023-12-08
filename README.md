@@ -6,7 +6,8 @@ The analysis delves into product and customer dynamics across multiple pages, in
 
 Additionally, the project conducts a detailed examination of purchasing patterns, distinguishing between new and returning customers, with a specific emphasis on repeat purchases occurring within 30 and 60 consecutive days.
 
-Lastly, the focus shifts to category sales, exploring their contribution to profit and trends in units sold. The analysis also considers the impact of discounts on profit margins.  
+Lastly, the focus shifts to category sales, exploring their contribution to profit and trends in units sold. The analysis also considers the impact of discounts on profit margins.
+  
 **Skills:** data analysis, data cleaning, data modeling, data visualization, table relationships.  
 **Technology:** SQL, DAX, Power Query, Power BI
 
