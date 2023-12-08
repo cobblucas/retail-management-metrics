@@ -11,5 +11,6 @@ Lastly, the focus shifts to category sales, exploring their contribution to prof
 **Skills:** data analysis, data cleaning, data modeling, data visualization, table relationships.  
 **Technology:** SQL, DAX, Power Query, Power BI
 
-**Preview:**
+**Preview**
+--
 ![Dashboard Preview](https://github.com/cobblucas/retail-management-metrics/blob/master/assets/retail-management-metrics.png)
