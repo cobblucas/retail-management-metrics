@@ -1,5 +1,5 @@
 ### Retail Management Metrics
-**Code:** [`retail-management-metrics.pbix`](https://github.com/cobblucas/retail-management-metrics/blob/master/retail-management-metrics.pbix)    
+**File:** [`retail-management-metrics.pbix`](https://github.com/cobblucas/retail-management-metrics/blob/master/retail-management-metrics.pbix)    
 **Description:** This project employs visualizations, including AI-driven smart narratives, scatter plots, and bar charts, to offer insights into the evolution of technology sales over time. The dataset consolidates information from various sources, presenting coherent time-series data on sales across different regions in the United States. To examine individual regions, users can utilize the slicers located at the top of each page.
 
 The analysis delves into product and customer dynamics across multiple pages, incorporating pie charts and tabular data matrices. These visual representations illustrate a positive upward trend in sales from the beginning to the end of the year.
